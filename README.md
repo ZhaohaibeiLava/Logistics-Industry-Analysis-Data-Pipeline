@@ -6,7 +6,7 @@ An automated ETL pipeline designed to ingest, process, and model raw operational
 
 ## 🌟 Project Overview & Motivation
 
-During my internship at the **Development and Research Center of the State Post Bureau of China**, I was responsible for analyzing the monthly and quarterly performance reports from over 10 leading logistics firms. This process was initially manual, time-consuming, and prone to human error.
+During my internship at the **Development and Research Center of the State Post Bureau**, I was responsible for analyzing the monthly and quarterly performance reports from over 10 leading logistics firms. This process was initially manual, time-consuming, and prone to human error.
 
 To solve this, I independently designed and developed this data pipeline. Its core mission is to **automate the entire workflow**, from raw, unstructured report ingestion to the generation of clean, structured, and analysis-ready datasets. This project successfully transformed a multi-day manual task into an efficient, reliable, and scalable automated process.
 
